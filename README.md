@@ -16,7 +16,7 @@ O objetivo foi reproduzir o design proposto o mais fiel possível.
 ## 🔗 Links
 
 - Repositório: https://github.com/lihsousa/qr-code-component
-- Site publicado: 
+- Site publicado: https://lihsousa.github.io/qr-code-componet/
 
 ## 🛠 Tecnologias utilizadas
 
